@@ -8,7 +8,7 @@
 
 | Ruta/archivo | Descripción |
 |--------------|-------------|
-| `TelecomX_LATAM.ipynb` | Notebook principal con preparación de datos, análisis exploratorio, segmentación y entrenamiento del modelo predictivo. |
+| `TelecomX2_LATAM_Git.ipynb` | Notebook principal con preparación de datos, análisis exploratorio, segmentación y entrenamiento del modelo predictivo. |
 | `df_limpo.csv` | Dataset original |
 
 ---
